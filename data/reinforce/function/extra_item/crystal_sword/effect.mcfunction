@@ -1,0 +1,1 @@
+execute as @a at @s if entity @s[nbt={SelectedItem:{components:{"minecraft:custom_data":{crystal_sword:1b}}}}] run effect give @s minecraft:resistance 2 0 true

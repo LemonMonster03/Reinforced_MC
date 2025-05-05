@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      " I ",
+      " I ",
+      " m "
+    ],
+    "key": {
+      "I": "minecraft:copper_ingot",
+      "m": "minecraft:stick"
+    },
+    "result": {
+      "id": "minecraft:stone_sword",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"铜剑\", \"color\": \"white\",\"italic\": false}",
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:sharpness": 1
+          }
+        }
+      },
+      "count": 1
+    }
+  }

@@ -1,0 +1,2 @@
+data merge entity @s {DeathLootTable:"reinforce:entities/zombie/reinforce_zombie",CustomName:'[{"text":"精锐","color":"green","bold":true},{"text":" ","color":"gray"},{"text":"僵尸","color":"gray","bold":false}]',HandItems:[{id:iron_axe},{}],HandDropChances:[0.1f,0f],ArmorItems:[{id:iron_boots},{id:iron_leggings},{id:iron_chestplate},{id:iron_helmet}],ArmorDropChances:[0.1f,0.1f,0.1f,0.1f]}
+tag @s add reinforced

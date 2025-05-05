@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      [
+        "minecraft:bowl"
+      ],
+      [
+        "minecraft:cooked_beef"
+      ],
+      [
+        "minecraft:baked_potato"
+      ]
+    ],
+    "result": {
+      "id": "minecraft:mushroom_stew",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"牛肉汤\", \"color\": \"green\",\"italic\": false}",
+        "minecraft:custom_data": "{beef_soup:1b}",
+        "minecraft:lore": ['[{"text":"恢复饥饿值：","italic":false,"color":"white"},{"text":"6点","italic":false,"color":"green"}]',
+        '[{"text":"食用效果：","italic":false,"color":"white"},{"text":"获得7s的力量Ⅰ","italic":false,"color":"green"}]']
+      },
+      "count": 1
+    }
+  }

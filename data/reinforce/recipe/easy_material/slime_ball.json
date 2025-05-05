@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      [
+        "minecraft:honey_bottle"
+      ],
+      [
+        "minecraft:clay_ball"
+      ]
+    ],
+    "result": {
+      "id": "minecraft:slime_ball",
+      "count": 1
+    }
+  }

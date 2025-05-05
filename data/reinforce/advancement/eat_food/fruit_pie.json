@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "consume_meat_soup": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items":"minecraft:pumpkin_pie",
+            "components": {
+              "custom_data": "{fruit_pie:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "reinforce:extra_food/fruit_pie"
+    }
+  }

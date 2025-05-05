@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "jij",
+      "j j"
+    ],
+    "key": {
+      "i": "minecraft:leather_boots",
+      "j": "minecraft:slime_ball"
+    },
+    "result": {
+      "id": "minecraft:leather_boots",
+      "components": {
+        "minecraft:custom_name": '{\"text\":\"史莱姆之靴\",\"color\":\"green\","italic":false}',
+        "minecraft:custom_data": "{slime_boots:1b}",
+        "minecraft:lore": ['[{"text":"效果：","italic":false,"color":"white"},{"text":"穿着时从高处跌落会获得缓降效果","italic":false,"color":"green"}]']
+      },
+      "count": 1
+    }
+  }

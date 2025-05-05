@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "III",
+      "I I",
+      "I I"
+    ],
+    "key": {
+      "I": "minecraft:copper_ingot"
+    },
+    "result": {
+      "id": "minecraft:chainmail_leggings",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"铜护腿\", \"color\": \"white\",\"italic\": false}",
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:protection": 1
+          }
+        }
+      },
+      "count": 1
+    }
+  }

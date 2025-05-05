@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:lapis_lazuli",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "minecraft:experience_bottle",
+    "components": {},
+    "count": 4
+  }
+}

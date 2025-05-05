@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      " II",
+      " m ",
+      " m "
+    ],
+    "key": {
+      "I": "minecraft:copper_ingot",
+      "m": "minecraft:stick"
+    },
+    "result": {
+      "id": "minecraft:stone_hoe",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"铜锄头\", \"color\": \"white\",\"italic\": false}",
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 2
+          }
+        }
+      },
+      "count": 1
+    }
+  }

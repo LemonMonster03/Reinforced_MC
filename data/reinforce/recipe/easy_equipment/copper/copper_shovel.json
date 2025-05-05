@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      " I ",
+      " m ",
+      " m "
+    ],
+    "key": {
+      "I": "minecraft:copper_ingot",
+      "m": "minecraft:stick"
+    },
+    "result": {
+      "id": "minecraft:stone_shovel",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"铜铲\", \"color\": \"white\",\"italic\": false}",
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:efficiency": 2
+          }
+        }
+      },
+      "count": 1
+    }
+  }

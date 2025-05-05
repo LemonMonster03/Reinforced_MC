@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "III",
+      "I I"
+    ],
+    "key": {
+      "I": "minecraft:copper_ingot"
+    },
+    "result": {
+      "id": "minecraft:chainmail_helmet",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"铜头盔\", \"color\": \"white\",\"italic\": false}",
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:protection": 1
+          }
+        }
+      },
+      "count": 1
+    }
+  }

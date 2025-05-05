@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "consume_meat_soup": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items":"minecraft:mushroom_stew",
+            "components": {
+              "custom_data": "{beef_soup:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "reinforce:extra_food/beef_soup"
+    }
+  }

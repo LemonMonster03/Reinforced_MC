@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      [
+        "minecraft:apple"
+      ],
+      [
+        "minecraft:melon_slice"
+      ],
+      [
+        "minecraft:melon_slice"
+      ],
+      [
+        "minecraft:egg"
+      ],
+      [
+        "minecraft:sugar"
+      ],
+      [
+        "minecraft:sweet_berries"
+      ]
+    ],
+    "result": {
+      "id": "minecraft:pumpkin_pie",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"水果派\", \"color\": \"green\",\"italic\": false}",
+        "minecraft:custom_data": "{fruit_pie:1b}",
+        "minecraft:lore": ['[{"text":"恢复饥饿值：","italic":false,"color":"white"},{"text":"4点","italic":false,"color":"green"}]',
+        '[{"text":"食用效果：","italic":false,"color":"white"},{"text":"获得15s的速度Ⅰ","italic":false,"color":"green"}]']
+      },
+      "count": 1
+    }
+  }
