@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "kill_rf_zombie": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:zombie",
+          "nbt": "{Tags:['reinforced2']}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "reinforce:monster/zombie/exp2"
+    }
+  }

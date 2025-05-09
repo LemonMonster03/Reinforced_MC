@@ -1,0 +1,1 @@
+give @s emerald[minecraft:custom_name="{\"text\":\"传送石【未记录】\",\"color\":\"green\",\"italic\":false}",custom_data={tpstone:1b, tpstone_used:0b, pickup:0b,x:0b,y:0b,z:0b}] 1

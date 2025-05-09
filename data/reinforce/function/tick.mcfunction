@@ -5,3 +5,6 @@ function reinforce:extra_item/slime_boots/effect
 # 检测生物
 function reinforce:monster/zombie/find
 function reinforce:monster/skeleton/find
+
+# 传送石
+function reinforce:teleport_stone/detect
